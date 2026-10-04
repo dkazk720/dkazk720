@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm dkazk720 👋
+# Hai, Aku dkazk720 👋
 
-### 🚀 Full Stack Developer / Student / Tech Enthusiast
+### 🚀 Developer/ Antusias Teknologi
 
 <p align="center">
   <a href="https://github.com/dkazk720">

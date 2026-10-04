@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/dkazk720">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF8C00&center=true&vcenter=true&width=435&lines=Dunia+Membutuhkan+Manusia+Yang+Hatinya+Baik;Kebaikan+Selalu+Membawa+Kesuksesan;Website+Yang+Bermanfaat+Untuk+Dunia" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=FF8C00&center=true&vcenter=true&width=435&lines=Dunia+Membutuhkan+Manusia+Yang+Hatinya+Baik;Kebaikan+Selalu+Membawa+Kesuksesan;Website+Yang+Bermanfaat+Untuk+Dunia" alt="Typing SVG" />
   </a>
 </p>
 
